@@ -1,0 +1,42 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+31,normal,High,Windows,laxmi@gmail.com,ASSIGNED,---,check save button with only digits
+40,normal,High,Windows,laxmi@gmail.com,ASSIGNED,---,check order refrence button
+19,normal,High,Windows,parth@gmail.com,ASSIGNED,---,check register button with only numbers in password
+20,normal,High,Windows,parth@gmail.com,ASSIGNED,---,check register button with only special character in password
+21,normal,High,Windows,parth@gmail.com,ASSIGNED,---,check register button with space password
+22,normal,High,Windows,parth@gmail.com,ASSIGNED,---,check register button with only 3 character password
+24,normal,High,Windows,parth@gmail.com,ASSIGNED,---,check register button with long line characters password
+32,normal,Normal,Windows,laxmi@gmail.com,ASSIGNED,---,click on logo button
+2,major,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with fulfill All details
+4,major,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with wrong value
+5,major,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with @ more than 2 dots
+6,major,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with domain name wrong
+7,major,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with 3 dots  before @ sign
+8,major,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with 3 dots  before @ sign
+10,major,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button starting with underscode / @
+11,normal,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with order refrence giving dots with alphabat
+12,normal,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with order refrence giving alphabat with special character
+13,minor,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with message is with only space
+14,minor,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with message drag photo and write something
+15,minor,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with message write long line character
+16,minor,Low,Windows,khushbu@gmail.com,ASSIGNED,---,"check send button with message write alphabat in Bold, Italic, Underline"
+17,normal,Low,Windows,khushbu@gmail.com,ASSIGNED,---,check send button with message write Emojis
+25,minor,Low,Windows,parth@gmail.com,ASSIGNED,---,check register button with numbers in city
+26,minor,Low,Windows,parth@gmail.com,ASSIGNED,---,check register button with blank in city
+27,minor,Low,Windows,parth@gmail.com,ASSIGNED,---,check register button with only space in city
+28,minor,Low,Windows,parth@gmail.com,ASSIGNED,---,check register button with only emojis in city
+29,minor,Low,Windows,parth@gmail.com,ASSIGNED,---,check register button with more than 10 character in city
+33,normal,Low,Windows,vijay@gmail.com,ASSIGNED,---,check search button with only alphabat in small character
+35,minor,Low,Windows,vijay@gmail.com,ASSIGNED,---,check write review button with only special character
+36,minor,Low,Windows,vijay@gmail.com,ASSIGNED,---,check write review button with only space
+37,minor,Low,Windows,vijay@gmail.com,ASSIGNED,---,check write review button with only digits
+38,minor,Low,Windows,vijay@gmail.com,ASSIGNED,---,check write review button with only special character
+39,minor,Low,Windows,vijay@gmail.com,ASSIGNED,---,check write review button with only space
+30,normal,High,Windows,laxmi@gmail.com,RESOLVED,FIXED,check save button with only space
+18,normal,High,Windows,parth@gmail.com,RESOLVED,FIXED,check register button with only alphabat in password
+23,normal,High,Windows,parth@gmail.com,RESOLVED,FIXED,check register button with emojis password
+3,major,Low,Windows,khushbu@gmail.com,RESOLVED,FIXED,check send button with blank or null value
+9,major,Low,Windows,khushbu@gmail.com,RESOLVED,FIXED,check send button with all digits
+1,normal,Low,Windows,vijay@gmail.com,RESOLVED,FIXED,check 70% of all products
+34,normal,Low,Windows,vijay@gmail.com,RESOLVED,FIXED,check write review button with only digits
+,,,,,,,
